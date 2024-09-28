@@ -106,6 +106,9 @@ Gnatt charts, visual tools that illustrate the project schedule, assist in:
 - enhancing communication with stakeholders in understanding project timelines and responsibilities.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
+
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
