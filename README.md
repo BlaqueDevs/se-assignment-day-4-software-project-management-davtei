@@ -67,8 +67,44 @@ Examples:
 - manufacturing 
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+
+Methods include:
+- implementing Software Quality Assurance (SQA) which are procedures to verify compliance with quality standards thoughout the development lifecycle.
+- conducting regular testing to identify defects early
+- setting clear quality requirements such as performance, security and usability to guide development efforts 
+- utilizing continuous integration/continuous development (CI/CD) to catch issues quickly and streamline updates.
+- encouraging communication between developers, testers and stakeholders to ensure alignment on quality goals.
+
+It is important to maintain high standards because:
+- it reduces costs by identifying and fixing defects early
+- it enhances customer satisfaction as user expectations for a high-quality software are met
+- it helps maintain a company's credibility as they are able to deliver reliable products
+- it helps reduce legal risks and enhances security measures 
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+
+Defining the project scope is essential for successful project planning as it establishes clear boundaries, objectives and deliverables. This clarity helps prevent scope creep, ensures resource allocation aligns with goals and facilitates stakeholder communication. A well-defined scope acts as a roadmap, guiding the project team throughout the development process.
+
+WBS is a hierarchical decomposition of a project into smaller, manageable components or deliverables. Each level of the WBS represents increasingly detailed tasks required to achieve project objectives.
+
+WBS is useful because:
+- it provides clarity by providing a visual means to represent all project tasks and their relationships
+- it helps in assigning responsibilities and estimating costs
+- it facilitates monitoring of task completion against the overall project timelines 
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+
+Developing a detailed project schedule:
+- ensures clarity and direction by providing a roadmap for team members
+- enables real-time monitoring of task completion and identifying potential delays
+- leads to efficient resource management
+- allows for early detection of potential issues
+
+Gnatt charts, visual tools that illustrate the project schedule, assist in:
+- clearly identifying task dependencies and how delays in one can affect others
+- progress tracking
+- enhancing communication with stakeholders in understanding project timelines and responsibilities.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
