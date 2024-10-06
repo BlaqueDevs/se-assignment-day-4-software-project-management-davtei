@@ -107,10 +107,38 @@ Gnatt charts, visual tools that illustrate the project schedule, assist in:
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
+These core issues include:
+- projects fail due to unclear understanding of ideal users, resulting in wasted resources.
+- inaccurate estimations that cause delays and budget overruns, impacting project success.
+- insufficient testing leads to unreliable software, affecting user user satisfaction and trust.
+- difficulty in sourcing and retaining qualified talent hinders project progress and quality.
+- including too many features complicates development and dilutes functionality, leading to poor performance.
 
+These problems are significant to the target audience as they directly impact the usability, reliability and overall success of the software product, which can affect customer satisfaction and business outcomes. Addressing these issues ensures that the software meets user needs effectively and remains competitive in the market.
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
-## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+
+- It helps to establish a focused understanding of the issues that need to be addressed.
+- Understanding the problem helps prioritize user needs for an aligned solution.
+- A clear problem statement reduces the risk of scope creep and misaligned features during development.
+- Clear definition of the problem facilitates collaboration and reduces misunderstandings among stakeholders.
+
+## 10. How would you describe your software solution in a way that captures its 
+essence without diving into technical details?
+
+- User-Friendly Design: The software is easy to navigate, ensuring that users can quickly access the tools they need without a steep learning curve.
+- Streamlined Processes: By automating repetitive tasks and providing clear workflows, our solution saves time and reduces errors.
+- Real-Time Collaboration: Users can easily communicate and collaborate with team members, fostering a productive environment.
+- Customizable Solutions: Tailor the software to fit unique needs, allowing for flexibility as requirements evolve.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+
+- Our software has an intuitive interface that enhances user experience.
+- We offer robust reporting tools for generating tailored reports with visual statistics.
+- Our software supports multiple languages for global accessibility and collaboration.
+- We provide seamless integration with existing systems through APIs.
+- Our software includes features for automating repetitive tasks to improve efficiency.
+- We have advanced security measures, including Single Sign-On (SSO) and customizable access controls, to protect user data.
+
 ## 12. What data is available regarding the market size and growth potential for your software?
 ## 13. How can understanding market trends inform your software’s positioning and development?
